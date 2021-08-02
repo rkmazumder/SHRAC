@@ -2,7 +2,7 @@
    :scale: 100 %
    :alt: Logo
    
-*SHRAC* is a Scenario Hurricane Analysis tool for community.
+*SHRAC* is a Scenario Hurricane Risk Analysis tool for community.
 
 .. toctree::
    :maxdepth: 2
@@ -19,10 +19,12 @@
   
 
 -------------------------------------
-*Advancing Disaster Resilience Science On Communities And Housing*
-Sutley Research Group, Civil, Environmental and Architectural Engineering
+This tool is developed by:
+**Sutley Research Group**
+Civil, Environmental and Architectural Engineering
 University of Kansas
 
+*Advancing Disaster Resilience Science On Communities And Housing*
 
 
 Indices and tables
