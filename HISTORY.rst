@@ -1,19 +1,42 @@
-Simulation results
+Risk Analysis Outcomes
 =============================
-Some examples of outputs...
+.........
 
-Cost Analysis
+Peak Gust Wind Speed (mph)
 ---------------------------
-.. figure:: figures/Cost.png
+.. figure:: figures/o_mph.png
    :scale: 100 %
    :alt: Logo
 
-Betweenness Centrality
+
+Damage State Probability (DS1)
 ---------------------------
-.. figure:: figures/NBC.png
+.. figure:: figures/o_DS1.png
    :scale: 100 %
    :alt: Logo
 
+
+
+Damage Ratio
+---------------------------
+.. figure:: figures/o_DR.png
+   :scale: 100 %
+   :alt: Logo
+
+
+Dislocation Map
+---------------------------
+.. figure:: figures/Org_D.png
+   :scale: 100 %
+   :alt: Logo
+
+
+Damage States
+---------------------------
+.. figure:: figures/org_dmg.png
+   :scale: 100 %
+   :alt: Logo
+   
 
    >>> pressure.to_excel('pressure.xlsx')
 
