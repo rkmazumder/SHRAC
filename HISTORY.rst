@@ -5,14 +5,14 @@ Risk Analysis Outcomes
 Peak Gust Wind Speed (mph)
 ---------------------------
 .. figure:: figures/o_mph.png
-   :scale: 100 %
+   :scale: 25 %
    :alt: Logo
 
 
 Damage State Probability (DS1)
 ---------------------------
 .. figure:: figures/o_DS1.png
-   :scale: 100 %
+   :scale: 25 %
    :alt: Logo
 
 
@@ -20,21 +20,21 @@ Damage State Probability (DS1)
 Damage Ratio
 ---------------------------
 .. figure:: figures/o_DR.png
-   :scale: 100 %
+   :scale: 25 %
    :alt: Logo
 
 
 Dislocation Map
 ---------------------------
 .. figure:: figures/Org_D.png
-   :scale: 100 %
+   :scale: 25 %
    :alt: Logo
 
 
 Damage States
 ---------------------------
 .. figure:: figures/org_dmg.png
-   :scale: 100 %
+   :scale: 25 %
    :alt: Logo
    
 
