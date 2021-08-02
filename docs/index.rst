@@ -1,8 +1,8 @@
-.. figure:: figures/SeismoPi.png
+.. figure:: figures/logo.png
    :scale: 100 %
    :alt: Logo
    
-*SeismoPi* is a Seismic damage analysis tool for buried pipelines.
+*SHRAC* is a Scenario Hurricane Analysis tool for community.
 
 .. toctree::
    :maxdepth: 2
@@ -18,9 +18,11 @@
 
   
 
-Department of Civil Engineering, CWRU
 -------------------------------------
-This tool is developed by Dr. Yue Li research group
+*Advancing Disaster Resilience Science On Communities And Housing*
+Sutley Research Group, Civil, Environmental and Architectural Engineering
+University of Kansas
+
 
 
 Indices and tables
