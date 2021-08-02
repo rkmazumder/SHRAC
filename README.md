@@ -1,6 +1,5 @@
-.. figure:: figures/logo.png
-   :scale: 100 %
-   :alt: Logo
+![plot](./figures/logo.png)
+
 
 # SHRAC
 Scenario Hurricane Risk Analysis for Community (SHRAC)
