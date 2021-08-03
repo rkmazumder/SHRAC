@@ -15,7 +15,7 @@
    history
    readme
    API documentation <apidocs/sd>
-   Acknowledgement
+   acknowledgement
    reference
 
   
