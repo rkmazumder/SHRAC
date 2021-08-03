@@ -178,8 +178,8 @@ latex_elements = {
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Hurricane Risk Analysis',
-     u'ha Documentation',
+    (master_doc, 'Scenario Hurricane Risk Analysis Tool',
+     u'SHRAC Documentation',
      [author], 1)
 ]
 
@@ -191,9 +191,9 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'Hurricane Risk Analysis',
-     u'ha Documentation',
+     u'SHRAC Documentation',
      author,
-     'ha',
+     'Hurricane Risk Analysis',
      'One line description of project.',
      'Miscellaneous'),
 ]
