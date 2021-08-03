@@ -82,7 +82,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ha'
+project = u'Hurricane Risk Analysis'
 copyright = u"2021, rkm"
 author = u"rkm"
 
