@@ -7,7 +7,7 @@ Scenario Hurricane Risk Analysis for Community (SHRAC)
 
 Overview
 --------
-**SHARC** is a Python package that allows to develop scenario-based hurricane damage and loss estimation for buildings at a community scale.
+**SHARC** is a Python package to estimate scenario-based hurricane damage and losses at a community scale.
 
 
 To install SHRAC, copy from github:
