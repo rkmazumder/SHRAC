@@ -13,6 +13,7 @@
    fragility
    Usage
    history
+   simulation
    readme
    API documentation <apidocs/sd>
    acknowledgement
