@@ -10,6 +10,7 @@
    authors
    installation
    contributing
+   fragility
    Usage
    history
    readme
